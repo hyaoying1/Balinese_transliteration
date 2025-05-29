@@ -1,7 +1,0 @@
-model_name,test_cer
-resnet18_encoder,0.1857
-vit_base_patch16_224,0.1493
-vit_large_patch16_224,0.149
-hybrid_cnn_vit_base_encoder,0.1639
-swin_small_encoder,0.2513
-swin_base_encoder,0.2728
